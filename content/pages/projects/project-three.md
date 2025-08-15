@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Fascia aplicada I '
 colors: colors-a
-date: '2022-01-02'
+date: '0010-01-02'
 client: Awesome client
 description: >-
   Introducción al estudio somatico de la fascia. Videofascia.  Tarea final para
