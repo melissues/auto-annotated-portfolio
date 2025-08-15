@@ -9,6 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/DSC_0679.jpg
   altText: Santa Capucha fotosintesis
+  caption: 'E.A. '
 media:
   type: ImageBlock
   url: /images/bg2.jpg
