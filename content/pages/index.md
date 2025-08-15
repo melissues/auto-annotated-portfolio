@@ -15,14 +15,13 @@ sections:
     backgroundSize: full
     title: AUTISTA ANTIFASCISTA tRANSFEMINISTA SUDAKA
     subtitle: >-
-      danza/poesía/performance/videodanza/ritual/digital/
-      investigación/cruce/memoria/cuerpo/archivo vivo/
-      traumas/vulnerabilidad/identidad/resistencia/manifiesto/violencia
+      danza/poesía/performance/videodanza/ritual/digital//investigación//cruce//memoria/cuerpo/archivo
+      vivo/ traumas/vulnerabilidad/identidad/resistencia/manifiesto/violencia
       social/institucional/lenguaje poético- personal- colectivo/
       perspectiva/decolonial/transfeminista/ , donde el cuerpo no solo es
-      soporte expresivo - - territorio- política -- escénico, generar espacios
-      de reflexión crítica y afectiva,- dolor se transforma en potencia creativa
-      y en gesto de resistencia.interdisciplina-
+      soporte expresivo - - territorio- política// escéna //reflexión crítica y
+      afectiva,- dolor se transforma en potencia creativa y en gesto de
+      resistencia.interdisciplina-
     styles:
       self:
         height: auto
