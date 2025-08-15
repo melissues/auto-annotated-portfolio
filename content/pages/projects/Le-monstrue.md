@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: le monstrue
-date: '2020-07-01'
+date: ''
 client: Awesome client
 description: >-
   “Toda posición de deseo contra la opresión por muy local y minúscula que sea
