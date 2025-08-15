@@ -11,7 +11,7 @@ featuredImage:
   type: ImageBlock
   url: /images/DSC_0904.jpg
   altText: el futuro (?)
-  caption: ''
+  caption: E.A.
   elementId: ''
 media:
   type: ImageBlock
