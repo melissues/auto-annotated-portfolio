@@ -8,7 +8,7 @@ description: 'Eclipse luna llena en Géminis.... Tibieza '
 featuredImage:
   type: ImageBlock
   url: /images/DSC_0679.jpg
-  altText: Project thumbnail image
+  altText: Santa Capucha fotosintesis
 media:
   type: ImageBlock
   url: /images/bg2.jpg
