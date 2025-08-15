@@ -10,7 +10,7 @@ description: >-
   -Uruguay. Docente: Catalina Chouhy.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/WhatsApp Image 2024-10-02 at 10.50.28.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
