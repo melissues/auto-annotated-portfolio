@@ -7,12 +7,6 @@ description: >-
   “Toda posición de deseo contra la opresión por muy local y minúscula que sea
   termina por cuestionar el conjunto del sistema capitalista y contribuye a
   abrir una fuga.”
-featuredImage:
-  type: ImageBlock
-  url: /images/DSC_0904.jpg
-  altText: el futuro (?)
-  caption: E.A.
-  elementId: ''
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
