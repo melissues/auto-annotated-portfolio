@@ -23,6 +23,12 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 bottomSections: []
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 “Toda posición de deseo contra la opresión por muy local y minúscula que sea termina por cuestionar el conjunto del sistema capitalista y contribuye a abrir una fuga.”
 
