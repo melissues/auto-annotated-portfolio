@@ -4,7 +4,7 @@ title: Santa Capucha
 colors: colors-a
 date: '2021-12-20'
 client: Mel Surraco
-description: ''
+description: 'Eclipse luna llena en Géminis.... Tibieza '
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
