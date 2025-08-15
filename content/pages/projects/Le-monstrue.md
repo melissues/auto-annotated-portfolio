@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/DSC_0904.jpg
-  altText: Project thumbnail image
+  altText: el futuro (?)
   caption: ''
   elementId: ''
 media:
