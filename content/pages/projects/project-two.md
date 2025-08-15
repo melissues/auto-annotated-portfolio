@@ -12,7 +12,7 @@ featuredImage:
   caption: 'E.A. '
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/DSC_0679.jpg
   altText: Project image
 ---
 Eclipse luna llena en Géminis 
