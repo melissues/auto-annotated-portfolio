@@ -17,9 +17,20 @@ sections:
       I’m a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      interdisciplinaria - danza - escritura y performance. obra se construye a
+      partir de una investigación encarnada sobre la memoria, el cuerpo y las
+      huellas del trauma, proponiendo lenguajes poéticos que atraviesan lo
+      personal y lo colectivo. Desde una perspectiva decolonial y
+      transfeminista, explora temas como el abandono, la vulnerabilidad, la
+      identidad y las resistencias frente a las violencias sociales e
+      institucionales.
+
+      Su producción artística se caracteriza por el cruce de formatos y
+      disciplinas, donde el cuerpo no solo es soporte expresivo, sino también
+      archivo vivo y territorio político. A través de manifiestos, piezas
+      escénicas y textos performáticos, Surraco busca generar espacios de
+      reflexión crítica y afectiva, en los que el dolor se transforma en
+      potencia creativa y en gesto de resistencia.
     styles:
       self:
         height: auto
