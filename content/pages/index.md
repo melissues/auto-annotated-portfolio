@@ -136,6 +136,13 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
+        - type: EmailFormControl
+          name: email-address
+          label: Name
+          hideLabel: false
+          placeholder: Your name
+          width: full
+          isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
         self:
