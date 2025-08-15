@@ -5,9 +5,9 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Introducción al estudio somatico de la fascia. Videofascia.  Tarea final para
+  la optativa Fascia poética viva. Lic. Danza Contemporánea. UdelaR. Montevideo
+  -Uruguay. Docente: Catalina Chouhy.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
