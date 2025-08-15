@@ -7,7 +7,7 @@ client: Mel Surraco
 description: 'Eclipse luna llena en Géminis.... Tibieza '
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/DSC_0679.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
