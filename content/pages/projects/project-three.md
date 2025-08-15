@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-10-02 at 10.50.28.jpeg
   altText: 'Collash '
+  caption: M.S.
 media:
   type: ImageBlock
   url: /images/bg3.jpg
