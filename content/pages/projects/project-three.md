@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Fascia aplicada I '
 colors: colors-a
 date: '2024-10-02'
-client: Awesome client
+client: Estudios del cuerpo
 description: >-
   Introducción al estudio somatico de la fascia. Videofascia.  Tarea final para
   la optativa Fascia poética viva. Lic. Danza Contemporánea. UdelaR. Montevideo
