@@ -12,7 +12,7 @@ featuredImage:
   caption: m.s.
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/2022-06-07 (7).png
   altText: Project image
 ---
 
