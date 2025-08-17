@@ -9,6 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/2021-06-16.png
   altText: en construccion
+  caption: m.s.
 media:
   type: ImageBlock
   url: /images/bg1.jpg
