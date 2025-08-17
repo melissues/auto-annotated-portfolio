@@ -19,7 +19,7 @@ sections:
       @MelSurraco
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/SantaCapuxa.JPG
       altText: Hero image
     styles:
       self:
