@@ -8,7 +8,7 @@ description: en construccion
 featuredImage:
   type: ImageBlock
   url: /images/2021-06-16.png
-  altText: Project thumbnail image
+  altText: en construccion
 media:
   type: ImageBlock
   url: /images/bg1.jpg
