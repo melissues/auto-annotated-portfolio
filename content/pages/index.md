@@ -42,7 +42,7 @@ sections:
       afectiva,- dolor se transforma en potencia creativa y en gesto de
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/DSC_0699.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
