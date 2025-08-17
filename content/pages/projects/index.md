@@ -31,7 +31,7 @@ topSections:
     subtitle: ''
     actions: []
     colors: colors-a
-    backgroundSize: full
+    backgroundSize: inset
     elementId: ''
     styles:
       self:
