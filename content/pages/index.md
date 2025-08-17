@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: mel surraco
-    subtitle: resistencia.interdisciplina- en construccion
+    subtitle: en construccion
     styles:
       self:
         height: auto
