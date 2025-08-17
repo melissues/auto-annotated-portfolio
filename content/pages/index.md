@@ -14,14 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: mel surraco
-    subtitle: >-
-      danza/poesía/performance/videodanza/ritual/digital//investigación//cruce//memoria/cuerpo/archivo
-      vivo/ traumas/vulnerabilidad/identidad/resistencia/manifiesto/violencia
-      social/institucional/lenguaje poético- personal- colectivo/
-      perspectiva/decolonial/transfeminista/ , donde el cuerpo no solo es
-      soporte expresivo - - territorio- política// escéna //reflexión crítica y
-      afectiva,- dolor se transforma en potencia creativa y en gesto de
-      resistencia.interdisciplina- en construccion
+    subtitle: resistencia.interdisciplina- en construccion
     styles:
       self:
         height: auto
