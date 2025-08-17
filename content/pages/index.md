@@ -40,6 +40,12 @@ sections:
       perspectiva/decolonial/transfeminista/ , donde el cuerpo no solo es
       soporte expresivo - - territorio- política// escéna //reflexión crítica y
       afectiva,- dolor se transforma en potencia creativa y en gesto de
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
