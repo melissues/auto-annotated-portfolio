@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: AUTISTA ANTIFASCISTA tRANSFEMINISTA SUDAKA
+    title: mel surraco
     subtitle: >-
       danza/poesía/performance/videodanza/ritual/digital//investigación//cruce//memoria/cuerpo/archivo
       vivo/ traumas/vulnerabilidad/identidad/resistencia/manifiesto/violencia
