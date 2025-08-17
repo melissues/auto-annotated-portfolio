@@ -30,7 +30,7 @@ topSections:
     title: Projects
     subtitle: ''
     actions: []
-    colors: colors-b
+    colors: colors-a
     backgroundSize: full
     elementId: ''
     styles:
